@@ -30,7 +30,7 @@
     
     const afp = '&afp2'
     
-    const source = '&utm_source=ti'
+    const source = '&utm_medium=ti'
 
     const destino = url+shareCode+afp+source
 
